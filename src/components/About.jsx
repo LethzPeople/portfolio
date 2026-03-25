@@ -31,7 +31,7 @@ const About = () => {
               <div className="space-y-6">
                 <p className="text-lg text-gray-300 leading-relaxed">
                   Hi! My name is Matias. I'm a full-stack developer.
-                  My interest in programming started in 2019, when I began working as a community manager on a FiveM server. <br />
+                  My interest in programming started in 2020, when I began working as a community manager on a FiveM server. <br />
                   I was always thinking of ways to keep people engaged in the game by creating events and encouraging interaction within the community. <br />
                   Because of this, I decided to start studying software development so I could add new features to the game on my own. <br />
                   My current focus is to continue learning and create creative and engaging web designs.
